@@ -3,4 +3,4 @@
 	url = git@github.com:microsoftgraph/msgraph-metadata.git
 [submodule "submodules/rest-api-specs"]
 	path = submodules/rest-api-specs
-	url = git@github.com:Azure/azure-rest-api-specs.git
+	url = git@github.com:kimorris27/azure-rest-api-specs.git
